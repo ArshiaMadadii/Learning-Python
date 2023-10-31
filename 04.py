@@ -1,8 +1,8 @@
-#تعداد کلمات یک رشته رو بشماد و اون کلمه رو اونقدر تکرار کن
-
-
-#len()--برای شمارش کاراکتر های یک استرینگ استفاده میشه
-
-Entrance = input("Please enter entrance : ")
-print(len(Entrance))   #شمردن تعداد کاراکتر ها
-print(len(Entrance)*Entrance)    # تکرار کردن
+# حقوق
+s  = int(input("Enter salary:"))
+m = s*0.1
+b = s*0.07
+print("s=",s)
+print("m=",m)
+print("b=",b)
+print("p=",s+m+b)
