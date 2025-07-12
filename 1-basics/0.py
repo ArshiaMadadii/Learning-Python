@@ -1,0 +1,1 @@
+print("We want to learn Python.\nSo, what can we do?\nWe have to work hard and be patient")
